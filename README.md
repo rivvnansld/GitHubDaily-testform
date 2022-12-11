@@ -13,7 +13,7 @@
 
 多年以前，我曾看到 GitHub 开源项目作者、全栈工程师 TJ Holowaychunk 说过这么一句话：
 
-"I don't read books, never went to school, I just read other people's code and always wonder how things work"。
+"I don't read books, never went to school, I just read other people's code and always wonder how things work. period"。
 
 从那时起，我便认为，通过阅读源码，站在前辈的角度上，去思考代码架构与程序逻辑，乃是提升编程技巧最好的方式。
 
